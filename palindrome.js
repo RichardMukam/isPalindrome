@@ -46,12 +46,3 @@ function isPalindrome (name)
 
     return `The word \"${name}\" is not a palindrome!`
 }
-
-console.log(isPalindrome('madam'));
-console.log(isPalindrome('ahhhhhh'));
-console.log(isPalindrome('racecar'));
-console.log(isPalindrome('hahahaha'));
-console.log(isPalindrome('yooooooooooooo'));
-console.log(isPalindrome('MAN'));
-console.log(isPalindrome('ABBA'));
-console.log(isPalindrome('BoB'));
