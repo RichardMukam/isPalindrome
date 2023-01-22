@@ -44,5 +44,5 @@ function isPalindrome (name)
         return `The word \"${name}\" is a palindrome!`
     }
 
-    return `The word \"${name}\" is not a palindrome!`
+    return `The word \"${name}\" is not a palindrome!`.
 }
