@@ -24,7 +24,7 @@ function isPalindrome (name)
             returnType = true;
         }
     }
-    else if (numberOfChars % 2 != 0)
+    else if (numberOfChars % 2 != 0) /*
     {
         let firstHalf = name.slice(0, (numberOfChars-1)/2);
         let secondHalf = name.slice((name.length+1)/2);
